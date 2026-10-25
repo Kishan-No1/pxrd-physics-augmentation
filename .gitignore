@@ -1,0 +1,23 @@
+# data and model artifacts (regenerate with the pipeline; see README)
+*.pt
+*.pth
+*.ckpt
+*.parquet
+*.sqlite
+*.npy
+*.npz
+data/
+output/
+output_augmented/
+checkpoints/
+cif/
+# experimental patterns are not redistributable
+*RESTRICTED*
+# environment / OS
+.venv/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+*.log
