@@ -1,7 +1,7 @@
 # A Controlled Analysis of Physics-Informed Augmentation for Powder X-Ray Diffraction Classification
 
 **Kishan Paschapur**, Pranav Kulkarni (Stanford University)
-Under review at IEEE ONCON 2026 · **[Read the paper (PDF)](paper.pdf)**
+Accepted at IEEE ONCON 2026 · **[Read the paper (PDF)](paper.pdf)**
 
 Models trained on simulated powder X-ray diffraction (PXRD) patterns can do well on synthetic benchmarks and still struggle on measured data. This study keeps a SIMPOD-based Swin-T classifier, its input representation and its data split fixed, and measures what physically motivated augmentation of the training patterns contributes to space-group classification on real measurements.
 
@@ -49,6 +49,6 @@ Models trained on simulated powder X-ray diffraction (PXRD) patterns can do well
   title  = {A Controlled Analysis of Physics-Informed Augmentation for Powder X-Ray Diffraction Classification},
   author = {Paschapur, Kishan and Kulkarni, Pranav},
   year   = {2026},
-  note   = {Under review at IEEE ONCON 2026}
+  note   = {Accepted at IEEE ONCON 2026}
 }
 ```
