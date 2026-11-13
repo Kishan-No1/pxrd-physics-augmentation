@@ -50,7 +50,7 @@ The conference result rests on 20 measured patterns. A journal extension tests i
 
 The extension is by Kishan Paschapur alone (Independent Researcher). Pranav Kulkarni, co-author of the conference paper above, reviewed and approved the pre-registration but is not an author of the extension.
 
-- **Pre-registration:** [`preregistration/PREREGISTRATION_external_validation.md`](preregistration/PREREGISTRATION_external_validation.md), registered at tag `prereg-stage1` and archived on Zenodo.
+- **Pre-registration:** [`preregistration/PREREGISTRATION_external_validation.md`](preregistration/PREREGISTRATION_external_validation.md), registered on 2026-11-13 at tag `prereg-stage1` and archived on Zenodo: [10.5281/zenodo.24208531](https://doi.org/10.5281/zenodo.24208531).
 - **Locked code and inputs:** [`preregistration/SHA256SUMS`](preregistration/SHA256SUMS) records the SHA-256 of every code file and training input the pre-registration locks. The code is released with the journal paper and can be checked against these hashes.
 <!-- prereg:end -->
 
