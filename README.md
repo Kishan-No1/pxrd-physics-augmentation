@@ -39,9 +39,20 @@ Models trained on simulated powder X-ray diffraction (PXRD) patterns can do well
 - Structure duplicates inherited from the published split limit what synthetic test accuracy says about unseen structures.
 
 ## Code and data
-- The training and evaluation code is available on request (reachtokishan@gmail.com) and will be released after review.
+- The training and evaluation code will be released with the journal paper (see the pre-registration below). Until then it is available on request (reachtokishan@gmail.com).
 - COD is public.
 - The 20 measured patterns were provided privately by the SIMPOD authors and are not redistributed here.
+
+<!-- prereg:start -->
+## Journal extension: pre-registered external validation
+
+The conference result rests on 20 measured patterns. A journal extension tests it again on a large, independent set of measured patterns from opXRD and RRUFF, scored once under rules fixed and published before any of that data was downloaded.
+
+The extension is by Kishan Paschapur alone (Independent Researcher). Pranav Kulkarni, co-author of the conference paper above, reviewed and approved the pre-registration but is not an author of the extension.
+
+- **Pre-registration:** [`preregistration/PREREGISTRATION_external_validation.md`](preregistration/PREREGISTRATION_external_validation.md), registered at tag `prereg-stage1` and archived on Zenodo.
+- **Locked code and inputs:** [`preregistration/SHA256SUMS`](preregistration/SHA256SUMS) records the SHA-256 of every code file and training input the pre-registration locks. The code is released with the journal paper and can be checked against these hashes.
+<!-- prereg:end -->
 
 ## Citation
 ```bibtex
