@@ -8,3 +8,4 @@ The code is released with the journal paper. To check it against this record, ru
     shasum -a 256 -c SHA256SUMS
 
 The three training-data inputs are derived from the COD and are not redistributed here.
+- `amendmentA/`: Amendment A (Stage 2, tag `prereg-amendmentA`, 2026-11-20): `AMENDMENT_A.md` and the hashed items (a)-(g) listed in its `SHA256SUMS`. Changes to the registered text are logged in §12 of the pre-registration.
