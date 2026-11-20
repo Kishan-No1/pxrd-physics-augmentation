@@ -1,0 +1,68 @@
+{
+  "started": "2026-11-20T21:38:01+00:00",
+  "variant": "lp",
+  "exploratory": true,
+  "device": "mps",
+  "precision": "fp32",
+  "torch": "2.14.0",
+  "python": "3.13.9",
+  "manifest_sha256": "51c88eee2da7a812cca03e2e2593d0439773be5e5442bfaa74dc4f8c19673adc",
+  "metadata_sha256": "bf9b5f7e0d06a8bd153c63389a3350e457b4f021abf0c88f307621c139270cb1",
+  "n_patterns": 1779,
+  "n_lp_reweighted": 342,
+  "parse_failures": {},
+  "models": {
+    "psclean521_fold0": {
+      "checkpoint": "swin_pretrainedTrue_psclean521_fold0_best.pt",
+      "sha256": "e1d05eb3d215c2db0be6763a689d2e3596a257c7eb9c5bac480dac69c52ab83a",
+      "modality": "image"
+    },
+    "psclean521_fold0_s1": {
+      "checkpoint": "swin_pretrainedTrue_psclean521_fold0_s1_best.pt",
+      "sha256": "56cf163b0256b6bfb676e63766f8a17fb034ec3b5ffbf5efd4c06a566ef4a5fa",
+      "modality": "image"
+    },
+    "psclean521_fold0_s2": {
+      "checkpoint": "swin_pretrainedTrue_psclean521_fold0_s2_best.pt",
+      "sha256": "9edda243d9edeb5a8fc085f72e65287d80a460a3d080c21c8b270827b139e20e",
+      "modality": "image"
+    },
+    "psclean521_fold0_s3": {
+      "checkpoint": "swin_pretrainedTrue_psclean521_fold0_s3_best.pt",
+      "sha256": "cfd107518b24119252babfbfbade671d693fa84baade9ee4baf16f840454534a",
+      "modality": "image"
+    },
+    "psclean521_fold0_s4": {
+      "checkpoint": "swin_pretrainedTrue_psclean521_fold0_s4_best.pt",
+      "sha256": "7ed7a8c3cf2ef426d41c99d11b8341c1243f338f0ae4512e792924eea1f7134d",
+      "modality": "image"
+    },
+    "psaug521_fold0": {
+      "checkpoint": "swin_pretrainedTrue_psaug521_fold0_best.pt",
+      "sha256": "a32144e3a21eef1475ce80207dab932a0d77db8aebf4f14a898b6bf09739a1ae",
+      "modality": "image"
+    },
+    "psaug521_fold0_s1": {
+      "checkpoint": "swin_pretrainedTrue_psaug521_fold0_s1_best.pt",
+      "sha256": "977a232ae649f6271b0d3720423994dc36f1b8f5caad3ebba48b21ed21c397ae",
+      "modality": "image"
+    },
+    "psaug521_fold0_s2": {
+      "checkpoint": "swin_pretrainedTrue_psaug521_fold0_s2_best.pt",
+      "sha256": "aa2870b8f6d5f248693b7f77a4dc37d32ba65289d802587afed5afb57a0095d5",
+      "modality": "image"
+    },
+    "psaug521_fold0_s3": {
+      "checkpoint": "swin_pretrainedTrue_psaug521_fold0_s3_best.pt",
+      "sha256": "a431a93d4e41b074935095b874efd49ad9c3c50029ad3e1b883a8ad72e599b96",
+      "modality": "image"
+    },
+    "psaug521_fold0_s4": {
+      "checkpoint": "swin_pretrainedTrue_psaug521_fold0_s4_best.pt",
+      "sha256": "7a46b94029e239363fcd9da8bc5f6b7c9bdb7e7ac8ad837aa510cd6aaaa86659",
+      "modality": "image"
+    }
+  },
+  "missing_checkpoints": [],
+  "finished": "2026-11-20T21:43:35+00:00"
+}
