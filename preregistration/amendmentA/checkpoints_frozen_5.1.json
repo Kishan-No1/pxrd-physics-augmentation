@@ -1,0 +1,62 @@
+{
+  "swin_pretrainedTrue_psclean521_fold0_best.pt": {
+    "registered": "e1d05eb3d215c2db0be6763a689d2e3596a257c7eb9c5bac480dac69c52ab83a",
+    "now": "e1d05eb3d215c2db0be6763a689d2e3596a257c7eb9c5bac480dac69c52ab83a"
+  },
+  "swin_pretrainedTrue_psaug521_fold0_best.pt": {
+    "registered": "a32144e3a21eef1475ce80207dab932a0d77db8aebf4f14a898b6bf09739a1ae",
+    "now": "a32144e3a21eef1475ce80207dab932a0d77db8aebf4f14a898b6bf09739a1ae"
+  },
+  "swin_pretrainedTrue_psclean521_fold1_best.pt": {
+    "registered": "7376d65419f3a14a8cd2b3dedce4c305277691be6961cd0e7c95804d098c341a",
+    "now": "7376d65419f3a14a8cd2b3dedce4c305277691be6961cd0e7c95804d098c341a"
+  },
+  "swin_pretrainedTrue_psaug521_fold1_best.pt": {
+    "registered": "fbd595d766645da3c48cdf2e5439c7e306f85b55b98ff2bcb8c5a5698451955a",
+    "now": "fbd595d766645da3c48cdf2e5439c7e306f85b55b98ff2bcb8c5a5698451955a"
+  },
+  "swin_pretrainedTrue_psclean521_fold0_s1_best.pt": {
+    "registered": "56cf163b0256b6bfb676e63766f8a17fb034ec3b5ffbf5efd4c06a566ef4a5fa",
+    "now": "56cf163b0256b6bfb676e63766f8a17fb034ec3b5ffbf5efd4c06a566ef4a5fa"
+  },
+  "swin_pretrainedTrue_psaug521_fold0_s1_best.pt": {
+    "registered": "977a232ae649f6271b0d3720423994dc36f1b8f5caad3ebba48b21ed21c397ae",
+    "now": "977a232ae649f6271b0d3720423994dc36f1b8f5caad3ebba48b21ed21c397ae"
+  },
+  "swin_pretrainedTrue_psclean521_fold0_s2_best.pt": {
+    "registered": "9edda243d9edeb5a8fc085f72e65287d80a460a3d080c21c8b270827b139e20e",
+    "now": "9edda243d9edeb5a8fc085f72e65287d80a460a3d080c21c8b270827b139e20e"
+  },
+  "swin_pretrainedTrue_psaug521_fold0_s2_best.pt": {
+    "registered": "aa2870b8f6d5f248693b7f77a4dc37d32ba65289d802587afed5afb57a0095d5",
+    "now": "aa2870b8f6d5f248693b7f77a4dc37d32ba65289d802587afed5afb57a0095d5"
+  },
+  "swin_pretrainedTrue_psclean521_fold0_bestalt.pt": {
+    "registered": "1475b301256e41104baa4b6b9fd3beaf688651d4354f8f0daf7e1f668126d667",
+    "now": "1475b301256e41104baa4b6b9fd3beaf688651d4354f8f0daf7e1f668126d667"
+  },
+  "swin_pretrainedTrue_abl_full_best.pt": {
+    "registered": "34be27ef2e6f8b215755f738a9b55bf8b6592c5a1f5a1831157afd48fb7be9fc",
+    "now": "34be27ef2e6f8b215755f738a9b55bf8b6592c5a1f5a1831157afd48fb7be9fc"
+  },
+  "swin_pretrainedTrue_abl_no_broadening_best.pt": {
+    "registered": "1fc3777d429ce5b3fc96d47ee27549fd7ced2a5cf1433f4a9b36836b5c490afa",
+    "now": "1fc3777d429ce5b3fc96d47ee27549fd7ced2a5cf1433f4a9b36836b5c490afa"
+  },
+  "swin_pretrainedTrue_abl_no_background_best.pt": {
+    "registered": "efa977e62ed7d01e63d87ebaddbb537dcde95856d5eb633874990f2f0125ffd7",
+    "now": "efa977e62ed7d01e63d87ebaddbb537dcde95856d5eb633874990f2f0125ffd7"
+  },
+  "swin_pretrainedTrue_abl_no_noise_best.pt": {
+    "registered": "2b17ad3a87b915d758ec25f72a02fd465fc44aa3f758231b608a8ca427bd3eeb",
+    "now": "2b17ad3a87b915d758ec25f72a02fd465fc44aa3f758231b608a8ca427bd3eeb"
+  },
+  "swin_pretrainedTrue_abl_no_zero_shift_best.pt": {
+    "registered": "146aa51dc9ae50e99b1efb5f02259e2b6fff97985a380fbf4576d709d5969d60",
+    "now": "146aa51dc9ae50e99b1efb5f02259e2b6fff97985a380fbf4576d709d5969d60"
+  },
+  "swin_pretrainedTrue_abl_no_texture_best.pt": {
+    "registered": "15d46546b3257bc456e2d3f1d942cd3e329306dc5fe56f5392b40c6dd43d5784",
+    "now": "15d46546b3257bc456e2d3f1d942cd3e329306dc5fe56f5392b40c6dd43d5784"
+  }
+}

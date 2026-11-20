@@ -1,0 +1,87 @@
+{
+  "provisional": false,
+  "written": "2026-11-20T19:18:57+00:00",
+  "n_cohort": 1759,
+  "n_P": 1104,
+  "n_clusters": 1104,
+  "P_by_source": {
+    "rruff": 639,
+    "opxrd": 465
+  },
+  "P_cu_native": 893,
+  "twin_levels_P": {
+    "ambiguous": 700,
+    "none": 327,
+    "val-twin": 38,
+    "train-twin": 39
+  },
+  "manifest_sha256": "51c88eee2da7a812cca03e2e2593d0439773be5e5442bfaa74dc4f8c19673adc",
+  "manifest_flow_sha256": "51c88eee2da7a812cca03e2e2593d0439773be5e5442bfaa74dc4f8c19673adc",
+  "labels_csv_sha256": "c7ba0707f63bea87ca5c02d87f4a237ca0088ee11475fef4c08332fabc5b50f0",
+  "labels_flow_sha256": "c7ba0707f63bea87ca5c02d87f4a237ca0088ee11475fef4c08332fabc5b50f0",
+  "labels_SHA256SUMS_sha256": "eb26f8424acc9e8f5964059009cf645b17c7a76559b8c54c34cdb7a8c5ab2b40",
+  "unlabeled_SHA256SUMS_sha256": "1da97492fc5df8030bc508685eee77b6ebd9e661555a8ca1d329482587e34a3a",
+  "twin_levels_csv_sha256": "745ac79d1fe8c8d5645eee90a2ae83efe8e0136f9b5718632729f436b14f8270",
+  "exclusions_csv_sha256": "df7afbe0bd52a13d51b5158d9fea543ae9fe1de7485771cec3dc4dd8056062d9",
+  "label_audit": {
+    "n": 30,
+    "errors": 0,
+    "result_csv_sha256": "3711233871216b2e18c44f6c3ccfc2a0faf4839dbde1275db8b1306bde5afb5f"
+  },
+  "power_file": "power_sim_n1104_none327.json",
+  "power": {
+    "n_P": 1104,
+    "n_none": 327,
+    "S": 5,
+    "discordance": 0.25,
+    "reps": 1000,
+    "sim_B": 2000,
+    "alpha": 0.05,
+    "seed": 20261115,
+    "results": [
+      {
+        "seed_model": "independent",
+        "delta_pp": 3.0,
+        "power_H1": 0.992,
+        "power_H2out_joint": 0.667,
+        "underpowered_flag_n": false
+      },
+      {
+        "seed_model": "independent",
+        "delta_pp": 5.0,
+        "power_H1": 1.0,
+        "power_H2out_joint": 0.978,
+        "underpowered_flag_n": false
+      },
+      {
+        "seed_model": "independent",
+        "delta_pp": 8.0,
+        "power_H1": 1.0,
+        "power_H2out_joint": 1.0,
+        "underpowered_flag_n": false
+      },
+      {
+        "seed_model": "shared",
+        "delta_pp": 3.0,
+        "power_H1": 0.469,
+        "power_H2out_joint": 0.107,
+        "underpowered_flag_n": false
+      },
+      {
+        "seed_model": "shared",
+        "delta_pp": 5.0,
+        "power_H1": 0.895,
+        "power_H2out_joint": 0.393,
+        "underpowered_flag_n": false
+      },
+      {
+        "seed_model": "shared",
+        "delta_pp": 8.0,
+        "power_H1": 0.999,
+        "power_H2out_joint": 0.81,
+        "underpowered_flag_n": false
+      }
+    ]
+  },
+  "exploratory_set_n": 0
+}

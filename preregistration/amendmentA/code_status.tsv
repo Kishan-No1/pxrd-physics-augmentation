@@ -1,0 +1,108 @@
+path	status
+cloud/eta_report.py	new after Stage 1
+cloud/overnight_watchdog.py	new after Stage 1
+cloud/pod_guard.sh	new after Stage 1
+cloud/pull_journal.sh	new after Stage 1
+cloud/run_journal.sh	registered, unchanged
+cloud/setup_instance.sh	registered, unchanged
+cloud/sync_journal.sh	registered, unchanged
+cohort/audit_labels.py	new after Stage 1
+cohort/build_cohort.py	registered, changed since Stage 1 (§12)
+cohort/cu_convert.py	registered, unchanged
+cohort/download_measured.py	registered, unchanged
+cohort/final_build.sh	new after Stage 1
+cohort/labels.py	registered, changed since Stage 1 (§12)
+cohort/original20.csv	new after Stage 1
+cohort/original20_fallback.csv	new after Stage 1
+cohort/pyproject.toml	registered, unchanged
+cohort/sources.py	registered, changed since Stage 1 (§12)
+cohort/tests/conftest.py	registered, unchanged
+cohort/tests/synth.py	registered, unchanged
+cohort/tests/test_build.py	registered, changed since Stage 1 (§12)
+cohort/tests/test_cu_convert.py	registered, unchanged
+cohort/tests/test_independence.py	new after Stage 1
+cohort/tests/test_labels.py	registered, unchanged
+cohort/tests/test_opxrd_format.py	new after Stage 1
+cohort/tests/test_rruff_join.py	new after Stage 1
+cohort/tests/test_twin_levels.py	registered, changed since Stage 1 (§12)
+cohort/twin_levels.py	registered, changed since Stage 1 (§12)
+docs/journal_extension/amendmentA/mock/fake_preds.py	new after Stage 1
+docs/journal_extension/amendmentA/mock/make_mock_outputs.sh	new after Stage 1
+docs/journal_extension/amendmentA/prepare_amendmentA.py	new after Stage 1
+docs/journal_extension/amendmentA/stage3_rehearsal/run_rehearsal.sh	new after Stage 1
+docs/journal_extension/amendmentA/stage3_rehearsal/run_rehearsal_resume.sh	new after Stage 1
+docs/journal_extension/stage1/finalize_stage1.py	new after Stage 1
+docs/journal_extension/stage1/prepare_stage1.py	new after Stage 1
+docs/journal_extension/stage3/overnight_after_rehearsal.sh	new after Stage 1
+docs/journal_extension/stage3/preflight_stage3.py	new after Stage 1
+docs/journal_extension/stage3/run_stage3.sh	new after Stage 1
+preprocessing/scripts/backfill_radial_images.py	new after Stage 1
+preprocessing/scripts/generate_augmented_radial_images.py	registered, unchanged
+preprocessing/scripts/generate_quarter_circle_images.py	new after Stage 1
+preprocessing/scripts/process_with_timeout.py	new after Stage 1
+preprocessing/scripts/run_pipeline.py	new after Stage 1
+preprocessing/scripts/run_resilient.py	new after Stage 1
+preprocessing/scripts/run_slow_lane.py	new after Stage 1
+preprocessing/scripts/smoke_test_model.py	new after Stage 1
+preprocessing/scripts/verify_output.py	new after Stage 1
+preprocessing/simpod/__init__.py	registered, unchanged
+preprocessing/simpod/atom_filter.py	new after Stage 1
+preprocessing/simpod/augment.py	registered, unchanged
+preprocessing/simpod/augment_config.py	registered, unchanged
+preprocessing/simpod/cif_parser.py	new after Stage 1
+preprocessing/simpod/cif_scan.py	new after Stage 1
+preprocessing/simpod/config.py	registered, unchanged
+preprocessing/simpod/cost_filter.py	new after Stage 1
+preprocessing/simpod/json_writer.py	new after Stage 1
+preprocessing/simpod/logging_setup.py	new after Stage 1
+preprocessing/simpod/manifest.py	new after Stage 1
+preprocessing/simpod/orchestrator.py	new after Stage 1
+preprocessing/simpod/pipeline.py	new after Stage 1
+preprocessing/simpod/radial_image.py	registered, unchanged
+preprocessing/simpod/record_builder.py	new after Stage 1
+preprocessing/simpod/xrd_simulate.py	registered, unchanged
+preprocessing/tests/__init__.py	new after Stage 1
+preprocessing/tests/test_atom_filter.py	new after Stage 1
+preprocessing/tests/test_augment.py	new after Stage 1
+preprocessing/tests/test_cif_parser.py	new after Stage 1
+preprocessing/tests/test_cif_scan.py	new after Stage 1
+preprocessing/tests/test_pipeline_end_to_end.py	new after Stage 1
+preprocessing/tests/test_radial_image.py	new after Stage 1
+preprocessing/tests/test_xrd_simulate.py	new after Stage 1
+training/__init__.py	new after Stage 1
+training/build_augmented_folds.py	registered, unchanged
+training/build_real_dataset.py	registered, unchanged
+training/cache_patterns.py	registered, unchanged
+training/cohort_stats.py	new after Stage 1
+training/config.py	registered, unchanged
+training/dataset.py	registered, unchanged
+training/dataset_1d.py	registered, unchanged
+training/eval_utils.py	registered, unchanged
+training/evaluate_ensemble.py	registered, unchanged
+training/evaluate_real.py	registered, unchanged
+training/exploratory_analysis.py	new after Stage 1
+training/extract_structures.py	new after Stage 1
+training/make_tables.py	new after Stage 1
+training/model.py	registered, unchanged
+training/model_1d.py	registered, unchanged
+training/paired_test.py	registered, unchanged
+training/power_sim.py	registered, unchanged
+training/prereg_models.csv	registered, unchanged
+training/prereg_stats.py	registered, unchanged
+training/real_baselines.py	registered, unchanged
+training/reroot_paths.py	registered, unchanged
+training/run_analysis.py	registered, unchanged
+training/score_cohort.py	registered, unchanged
+training/score_exploratory.py	new after Stage 1
+training/split.py	registered, unchanged
+training/synthetic_dedup.py	new after Stage 1
+training/tests/__init__.py	new after Stage 1
+training/tests/test_cohort_stats.py	new after Stage 1
+training/tests/test_exploratory.py	new after Stage 1
+training/tests/test_prereg_stats.py	registered, unchanged
+training/tests/test_stage3.py	registered, unchanged
+training/train.py	registered, unchanged
+cohort/uv.lock	registered, unchanged
+training/output/folds_papersplit.parquet	registered, unchanged
+training/output/patterns_f16_papersplit.npy	registered, unchanged
+training/output/patterns_f16_papersplit.order.parquet	registered, unchanged

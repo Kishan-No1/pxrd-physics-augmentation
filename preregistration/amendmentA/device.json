@@ -1,0 +1,11 @@
+{
+  "device": "mps",
+  "precision": "fp32",
+  "torch": "2.14.0",
+  "python": "3.13.9",
+  "rehearsal_mps_repeat_bit_identical": true,
+  "rehearsal_mps_vs_cpu_all_top5_identical": true,
+  "rehearsal_mps_vs_cpu_max_abs_softmax_diff": 1.722574234008789e-05,
+  "machine": "Apple M5 Pro",
+  "summary_sha256": "59dd0a220a2aac755b435d078062f5a669967e6e4dca68bd6a7e2d1cb10eb538"
+}
